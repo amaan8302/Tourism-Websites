@@ -1,10 +1,7 @@
 # Project Name :International Tourism Management System
 #### This is Course project for CS-207. Build by group: G-4 
   
-Harsh Wardhan Dohaiya 200001026
-Harshit Pachar 200001027
-Prathmesh Patil 200001061
-Dishesh Singh Chaudhary 200001022
+Amaan Ullah Siddiqui +91 7354941446
 <hr>
 
 Visit http://harshit123.pythonanywhere.com for live demo. Frontend and Backend working.
