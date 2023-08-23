@@ -1,10 +1,10 @@
 # Project Name :International Tourism Management System
-#### This is Course project for CS-207. Build by group: G-4 
+<!-- #### This is Course project for CS-207. Build by group: G-4  -->
   
 Amaan Ullah Siddiqui +91 7354941446
-<hr>
+<!-- <hr>
 
-Visit http://harshit123.pythonanywhere.com for live demo. Frontend and Backend working.
+Visit http://harshit123.pythonanywhere.com for live demo. Frontend and Backend working. -->
 <hr>
 Technology Implemented : Apache Server
 Language Used: Python
